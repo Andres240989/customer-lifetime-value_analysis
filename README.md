@@ -111,15 +111,6 @@ The resulting segments are:
 * `low_value`
 
 A customer value score was also created to support the segmentation process.
-
-This allows the business to move from simply asking:
-
-> "How much revenue are we generating?"
-
-to:
-
-> "Which customers are generating the most economic value?"
-
 ---
 
 ## 📈 Interactive Dashboard
